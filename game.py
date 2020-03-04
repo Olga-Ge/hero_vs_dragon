@@ -66,5 +66,5 @@ while True:
         if dragon_hp <1:
             print("Our valiant hero has slain the dragon!")
             break
-    
+
         input("Round over. Press any key")
